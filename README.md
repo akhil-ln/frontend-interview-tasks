@@ -48,39 +48,7 @@ You will be fetching employee data from the following API:
 3. **Create a new branch** (e.g., `feature/table-component`).
 4. Implement the table component following the requirements.
 5. **Submit a pull request** with your implementation to this repository.
-
----
-
-## Evaluation Criteria:
-
-* **Correctness**: Does the table fetch and display data correctly? Is the search, sort, and pagination working as expected?
-* **Code Quality**: Is the code well-structured, modular, and easy to understand?
-* **Functionality**: Does the implementation meet all the requirements (search, sort, pagination)?
-* **React Best Practices**: Proper use of functional components, hooks, and state management.
-* **Usability**: Is the UI/UX intuitive, even if no styling is expected?
-
----
-
-## Setup Instructions:
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repo-url>
-   cd <repo-directory>
-   ```
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-
-   ```bash
-   npm start
-   ```
-4. Open your browser and go to `http://localhost:3000` to see the app in action.
-
+6. 
 ---
 
 ### Notes:
