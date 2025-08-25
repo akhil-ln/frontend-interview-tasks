@@ -48,7 +48,7 @@ You will be fetching employee data from the following API:
 3. **Create a new branch** (e.g., `feature/table-component`).
 4. Implement the table component following the requirements.
 5. **Submit a pull request** with your implementation to this repository.
-6. 
+
 ---
 
 ### Notes:
